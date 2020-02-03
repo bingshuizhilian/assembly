@@ -42,14 +42,19 @@ mov di, offset tbl+10h
 mov cx, 21
 s:
 ; year
-mov al, year[bx][0]
-mov es:[di], al
-mov al, year[bx][1]
-mov es:[di+1], al
-mov al, year[bx][2]
-mov es:[di+2], al
-mov al, year[bx][3]
-mov es:[di+3], al
+; mov al, year[bx][0]
+; mov es:[di], al
+; mov al, year[bx][1]
+; mov es:[di+1], al
+; mov al, year[bx][2]
+; mov es:[di+2], al
+; mov al, year[bx][3]
+; mov es:[di+3], al
+
+mov ax, word ptr year[bx][0]
+mov es:[di], ax
+mov ax, word ptr year[bx][2]
+mov es:[di+2], ax
 
 ; income
 mov ax, word ptr income[bx][0]
