@@ -1,3 +1,4 @@
+; 初识8086汇编源码结构
 assume cs:a1
 
 a1 segment

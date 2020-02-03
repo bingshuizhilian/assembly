@@ -1,3 +1,4 @@
+; loop指令；使用非ds段寄存器时要加段前缀
 assume cs:code
 
 code segment

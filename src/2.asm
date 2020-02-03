@@ -1,3 +1,4 @@
+; 段前缀
 assume cs:a1
 
 a1 segment

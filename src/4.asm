@@ -1,3 +1,4 @@
+; loop指令，cx为循环的次数
 assume cs:code
 
 code segment
