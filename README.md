@@ -1,2 +1,18 @@
 # assembly
  《汇编语言 第三版 王爽》学习笔记
+- [1.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/1.asm)
+- [2.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/2.asm)
+- [3.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/3.asm)
+- [4.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/4.asm)
+- [5.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/5.asm)
+- [6.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/6.asm)
+- [7.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/7.asm)
+- [8.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/8.asm)
+- [9.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/9.asm)
+- [10.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/10.asm)
+- [11.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/11.asm)
+- [12.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/12.asm)
+- [13.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/13.asm)
+- [14.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/14.asm)
+- [15.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/15.asm)
+- [16.asm](https://github.com/bingshuizhilian/assembly/blob/master/src/16.asm)
