@@ -2,11 +2,13 @@
 assume cs:a1
 
 a1 segment
-mov ax, 0a100h ;不能以字母开头
-mov bx, [100h]
+mov ax, 0a100h     ; 不能以字母开头
+mov bx, [100h]     ; = mov bx, 100h
+mov bx, ds:[100h]
 mov cx, [bx]
-mov dx, ds:[2]
-mov si, ds:[bx]
+mov dx, [2]
+mov dx, [si]
+mov si, ds:[bx]    ; 只有bx、si、di、bp可用作寄存器间接寻址
 
 
 
