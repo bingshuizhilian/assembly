@@ -1,4 +1,5 @@
 # assembly
+
  《汇编语言 第三版 王爽》学习笔记
 - [1.asm ***初识8086汇编源码结构***](https://github.com/bingshuizhilian/assembly/blob/master/src/1.asm)
 - [2.asm ***段前缀***](https://github.com/bingshuizhilian/assembly/blob/master/src/2.asm)
@@ -16,3 +17,9 @@
 - [14.asm ***问题7.9 - 每行前四个纯字母变为大写***](https://github.com/bingshuizhilian/assembly/blob/master/src/14.asm)
 - [15.asm ***问题8.1 - div及db、dw、dd***](https://github.com/bingshuizhilian/assembly/blob/master/src/15.asm)
 - [16.asm ***实验7 - 寻址方式在结构化数据中的应用***](https://github.com/bingshuizhilian/assembly/blob/master/src/16.asm)
+- [17.asm ***第9章 - jmp转移指令的原理***](https://github.com/bingshuizhilian/assembly/blob/master/src/17.asm)
+- [18.asm ***检测点9.1-(1)***](https://github.com/bingshuizhilian/assembly/blob/master/src/18.asm)
+- [19.asm ***检测点9.1-(2)***](https://github.com/bingshuizhilian/assembly/blob/master/src/19.asm)
+- [20.asm ***检测点9.2***](https://github.com/bingshuizhilian/assembly/blob/master/src/20.asm)
+- [21.asm ***检测点9.3***](https://github.com/bingshuizhilian/assembly/blob/master/src/21.asm)
+- [22.asm ***实验9 - 按要求显示字符***](https://github.com/bingshuizhilian/assembly/blob/master/src/22.asm)
