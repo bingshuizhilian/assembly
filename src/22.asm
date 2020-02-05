@@ -59,8 +59,6 @@ pop si                        ; 从栈中取出颜色偏移量
 inc si                        ; 取下一个颜色
 loop s
 
-deadloop:
-jmp deadloop
 
 mov ax, 4c00h
 int 21h
