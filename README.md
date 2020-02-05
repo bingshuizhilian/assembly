@@ -23,3 +23,4 @@
 - [20.asm ***检测点9.2***](https://github.com/bingshuizhilian/assembly/blob/master/src/20.asm)
 - [21.asm ***检测点9.3***](https://github.com/bingshuizhilian/assembly/blob/master/src/21.asm)
 - [22.asm ***实验9 - 按要求显示字符***](https://github.com/bingshuizhilian/assembly/blob/master/src/22.asm)
+- [23.asm ***实验10 - 1.显示字符串***](https://github.com/bingshuizhilian/assembly/blob/master/src/23.asm)
