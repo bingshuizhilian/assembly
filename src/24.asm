@@ -40,12 +40,12 @@ divdw:
 push bp
 mov bp, sp
 
-push ax            ; L-X的低16位: bp-2
+push ax            ; L是X的低16位，在栈中的位置: bp-2
 mov ax, dx         ; H送入ax
 xor dx, dx         ; 清空dx，否则被除数不正确
 div cx
 
-push ax            ; int(H/N): bp-4，此值就是最终应送入dx的结果
+push ax            ; int(H/N)在栈中的位置: bp-4，此值就是最终应送入dx的结果
 mov ax, ss:[bp-2]  ; 此时dx中已是rem(H/N), 把L送入ax即可
 div cx
 

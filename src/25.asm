@@ -79,7 +79,7 @@ pop bx
 ret
 
 ; 名称：dtoc2
-; 功能：同dtoc，优化算法
+; 功能：同dtoc，优化程序结构
 ; 参数：(ax)=word型数据，ds:si指向字符串首地址
 ; 返回：无
 dtoc2:
