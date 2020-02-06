@@ -24,3 +24,5 @@
 - [21.asm ***检测点9.3***](https://github.com/bingshuizhilian/assembly/blob/master/src/21.asm)
 - [22.asm ***实验9 - 按要求显示字符***](https://github.com/bingshuizhilian/assembly/blob/master/src/22.asm)
 - [23.asm ***实验10 - 1.显示字符串***](https://github.com/bingshuizhilian/assembly/blob/master/src/23.asm)
+- [24.asm ***实验10 - 2.解决除法溢出的问题***](https://github.com/bingshuizhilian/assembly/blob/master/src/24.asm)
+- [25.asm ***实验10 - 3.数值显示***](https://github.com/bingshuizhilian/assembly/blob/master/src/25.asm)
