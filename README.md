@@ -26,4 +26,4 @@
 - [23.asm ***实验10 - 1.显示字符串***](https://github.com/bingshuizhilian/assembly/blob/master/src/23.asm)
 - [24.asm ***实验10 - 2.解决除法溢出的问题***](https://github.com/bingshuizhilian/assembly/blob/master/src/24.asm)
 - [25.asm ***实验10 - 3.数值显示***](https://github.com/bingshuizhilian/assembly/blob/master/src/25.asm)
-- [26.asm ***p211 课程设计1***](https://github.com/bingshuizhilian/assembly/blob/master/src/26.asm)
+- [26.asm ***课程设计1***](https://github.com/bingshuizhilian/assembly/blob/master/src/26.asm)
