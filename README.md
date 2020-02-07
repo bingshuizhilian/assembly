@@ -27,3 +27,5 @@
 - [24.asm ***实验10 - 2.解决除法溢出的问题***](https://github.com/bingshuizhilian/assembly/blob/master/src/24.asm)
 - [25.asm ***实验10 - 3.数值显示***](https://github.com/bingshuizhilian/assembly/blob/master/src/25.asm)
 - [26.asm ***课程设计1***](https://github.com/bingshuizhilian/assembly/blob/master/src/26.asm)
+- [27.asm ***检测点11.4***](https://github.com/bingshuizhilian/assembly/blob/master/src/27.asm)
+- [28.asm ***实验11 - 编写子程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/28.asm)
