@@ -29,3 +29,4 @@
 - [26.asm ***课程设计1***](https://github.com/bingshuizhilian/assembly/blob/master/src/26.asm)
 - [27.asm ***检测点11.4***](https://github.com/bingshuizhilian/assembly/blob/master/src/27.asm)
 - [28.asm ***实验11 - 编写子程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/28.asm)
+- [29.asm ***实验12 - 编写0号中断的处理程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/29.asm)
