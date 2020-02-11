@@ -30,3 +30,8 @@
 - [27.asm ***检测点11.4***](https://github.com/bingshuizhilian/assembly/blob/master/src/27.asm)
 - [28.asm ***实验11 - 编写子程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/28.asm)
 - [29.asm ***实验12 - 编写0号中断的处理程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/29.asm)
+- [30.asm ***实验13 - 编写、应用中断例程 - (1)a 安装程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/30.asm)
+- [31.asm ***实验13 - 编写、应用中断例程 - (1)b 应用程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/31.asm)
+- [32.asm ***实验13 - 编写、应用中断例程 - (2)a 安装程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/32.asm)
+- [33.asm ***实验13 - 编写、应用中断例程 - (2)b 应用程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/33.asm)
+- [34.asm ***实验13 - 编写、应用中断例程 - (3)***](https://github.com/bingshuizhilian/assembly/blob/master/src/34.asm)
