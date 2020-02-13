@@ -35,3 +35,4 @@
 - [32.asm ***实验13 - 编写、应用中断例程 - (2)a 安装程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/32.asm)
 - [33.asm ***实验13 - 编写、应用中断例程 - (2)b 应用程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/33.asm)
 - [34.asm ***实验13 - 编写、应用中断例程 - (3)***](https://github.com/bingshuizhilian/assembly/blob/master/src/34.asm)
+- [35.asm ***实验14 - 访问CMOS RAM***](https://github.com/bingshuizhilian/assembly/blob/master/src/35.asm)
