@@ -44,7 +44,7 @@ pop es:[202h]
 
 ; 用刚安装过的新的int9中断例程的ip、cs替换原来的ip、cs
 cli
-mov word ptr es:[9*4], 204h
+mov word ptr es:[9*4], 204h ; 注意：若执行完此设置ip语句，恰好发生了键盘中断事件，因为下条语句的cs还未设置，所以CPU将跳转到【旧cs:新ip】去执行，将发生错误，所以这里要关中断
 mov word ptr es:[9*4+2], 0
 sti
 
