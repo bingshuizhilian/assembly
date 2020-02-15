@@ -37,3 +37,7 @@
 - [34.asm ***实验13 - 编写、应用中断例程 - (3)***](https://github.com/bingshuizhilian/assembly/blob/master/src/34.asm)
 - [35.asm ***实验14 - 访问CMOS RAM***](https://github.com/bingshuizhilian/assembly/blob/master/src/35.asm)
 - [36.asm ***实验15 - 安装新的int 9中断例程***](https://github.com/bingshuizhilian/assembly/blob/master/src/36.asm)
+- [37.asm ***检测点16.1***](https://github.com/bingshuizhilian/assembly/blob/master/src/37.asm)
+- [38.asm ***检测点16.2***](https://github.com/bingshuizhilian/assembly/blob/master/src/38.asm)
+- [39.asm ***实验16 - 编写包含多个功能子程序的中断例程 - 安装程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/39.asm)
+- [40.asm ***实验16 - 编写包含多个功能子程序的中断例程 - 应用程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/40.asm)
