@@ -43,3 +43,5 @@
 - [40.asm ***实验16 - 编写包含多个功能子程序的中断例程 - 应用程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/40.asm)
 - [41.asm ***实验17 - 编写包含多个功能子程序的中断例程 - 安装程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/41.asm)
 - [42.asm ***实验17 - 编写包含多个功能子程序的中断例程 - 应用程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/42.asm)
+- [43.asm ***课程设计2 - boot程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/43.asm)
+- [44.asm ***课程设计2 - task程序***](https://github.com/bingshuizhilian/assembly/blob/master/src/44.asm)
